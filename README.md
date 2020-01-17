@@ -18,10 +18,11 @@ Buat aplikasi Daftar Makan Sederhana dengan ketentuan:
 
 ### Built With
 - [Flutter](https://flutter.dev)
+- [MealDB]
 
 ### Created By
 - [Fahriz Dimasqy](https://github.com/fahrizdimasqy)
-
+- [Tommy]
 ---
 
 ### Online Study Group Eudeka!
