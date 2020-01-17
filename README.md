@@ -12,17 +12,23 @@ Buat aplikasi Daftar Makan Sederhana dengan ketentuan:
 10. Pada halaman tentang aplikasi berisi tentang aplikasi tersebut, anggota kelompok, dan tentang Eudeka (boleh dijadikan ajang promosi sosial media atau portofolio para anggota).
 
 ### Screenshot
-<img src="images/Screenshot_2019-11-28-20-48-26-228_com.example.tugas_3.png" width="210"></img>
-<img src="images/Screenshot_2019-11-28-20-48-32-084_com.example.tugas_3.png" width="210"></img>
-<img src="images/Screenshot_2019-11-28-20-48-44-648_com.example.tugas_3.png" width="210"></img>
+<img src="images/Screenshot_2020-01-15-19-00-10-448_com.example.final_project_kelompok3.png" width="210"></img>
+<img src="images/Screenshot_2020-01-15-19-00-18-560_com.example.final_project_kelompok3.png" width="210"></img>
+<img src="images/Screenshot_2020-01-16-19-01-02-495_com.example.final_project_kelompok3.png" width="210"></img>
+<img src="images/Screenshot_2020-01-16-19-01-30-364_com.example.final_project_kelompok3.png" width="210"></img>
+<img src="images/Screenshot_2020-01-16-19-01-35-848_com.example.final_project_kelompok3.png" width="210"></img>
 
 ### Built With
 - [Flutter](https://flutter.dev)
 - [MealDB]
 
 ### Created By
-- [Fahriz Dimasqy](https://github.com/fahrizdimasqy)
-- [Tommy]
+- [Fahriz](https://github.com/fahrizdimasqy)
+    - Halaman List Grid View (2 poin)
+    - Detail Page (1 poin)
+    - Drawer (1 poin)
+- Tommy
+    - Halaman About (1 poin)
 ---
 
 ### Online Study Group Eudeka!
