@@ -35,7 +35,8 @@ Buat aplikasi Daftar Makan Sederhana dengan ketentuan:
 Salah satu program dari [**Eudeka!**](https://www.eudeka.id) untuk belajar secara _full online_ via Whatsapp/Telegram dan Google Classroom, dengan para praktisi handal di bidangnya. Selain itu juga kamu dapat berkesempatan untuk memperluas koneksimu dengan peserta lain.
 
 ### OSG8 - Flutter Basic
-membuat aplikasi list grid view 10 data.
+Resource:
+Kelompok 1, 3, 5,7,9,11 (The Meal DB / Makanan)..
 
 ### Cara Mendaftar Online Study Group
 Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di dawah ini.
